@@ -1,5 +1,3 @@
-README.md:
-
 # CLI Tool to check docker build states
 
 ```bash
